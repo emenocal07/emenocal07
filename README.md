@@ -13,5 +13,3 @@
 
 <h2 align="justify">GitHub stats:</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emenocal07&show_icons=true&theme=merko&locale=en" alt="emenocal07" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emenocal07&theme=merko" alt="emenocal07" /></p>
-
-<p align="center"></p>
