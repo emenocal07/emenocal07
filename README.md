@@ -3,7 +3,7 @@
 
 
 <h2 align="justify">You can reach me at:</h2>
-<p align="justify"> 📫 emenocal07@gmail.com | <a href="https://linkedin.com/in/https://www.linkedin.com/in/ernestoespinozamenocal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ernestoespinozamenocal/" height="30" width="30" /></a> | ☎️ (+34)664814626
+<p align="justify"> 📫 emenocal07@gmail.com | <a href="https://linkedin.com/in/https://www.linkedin.com/in/ernestoespinozamenocal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ernestoespinozamenocal/" height="30" width="30" /></a>
 </p> 
 
 
